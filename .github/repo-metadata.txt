@@ -1,0 +1,3 @@
+﻿repository=tcknvkn-cpp
+visibility=public
+description=C++ için TCKN (TC Kimlik No) ve VKN (Vergi Kimlik No) doğrulama kütüphanesi.
