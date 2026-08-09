@@ -1,4 +1,4 @@
-﻿# tcknvkn-cpp
+# tcknvkn-cpp
 
 C++ kütüphanesi ile TCKN (TC Kimlik No) ve VKN (Vergi Kimlik No) doğrulama işlemlerini sade bir API ile kullanabilirsiniz.
 
